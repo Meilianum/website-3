@@ -1,0 +1,20 @@
+body{
+    
+        background-color: rgb(147, 240, 139);
+        color: white;
+        text-align: center;
+        font-family: Arial, sans-serif;
+}
+ h1{
+    color:  darkgreen;
+ }
+ p{
+    color:  black;
+ }
+ p{
+    text-align: start;
+    color: darkgreen  
+ }
+ h2{
+    color: darkgreen;
+ }
